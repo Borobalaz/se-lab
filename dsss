@@ -1,0 +1,38 @@
+[33mcommit 0239e23b2c77b51b3001f7a95936c1001c6bc055[m[33m ([m[1;36mHEAD -> [m[1;32mbranch-AC[m[33m, [m[1;32mbranch-A[m[33m)[m
+Author: Borobalaz <boroczky.balazs@gmail.com>
+Date:   Wed Sep 27 16:58:45 2023 +0200
+
+    trickery
+
+[33mcommit c01ae269de18081779b9a841c2fc1cb1efdfe898[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: ce65386 c81620e
+Author: Borobalaz <75067710+Borobalaz@users.noreply.github.com>
+Date:   Wed Sep 27 16:54:06 2023 +0200
+
+    Merge pull request #2 from Borobalaz/new_feature_#1
+    
+    Fix #1
+
+[33mcommit c81620ecff86bb37d99800c467b09436efad2a36[m[33m ([m[1;31morigin/new_feature_#1[m[33m, [m[1;32mnew_feature_#1[m[33m)[m
+Author: Borobalaz <boroczky.balazs@gmail.com>
+Date:   Wed Sep 27 16:51:37 2023 +0200
+
+    #1 implemented
+
+[33mcommit ce653867c039b33ed48de1deff837abaf43b20c2[m
+Author: Borobalaz <boroczky.balazs@gmail.com>
+Date:   Wed Sep 27 16:41:53 2023 +0200
+
+    pom.xml jupiter version changed
+
+[33mcommit 5e059fe8e100431645a4484cfe9a6f6dab709b6d[m
+Author: Borobalaz <169314@bme.hu>
+Date:   Wed Sep 27 16:36:33 2023 +0200
+
+    Add initial project files
+
+[33mcommit bc90d8ad26d91f0d6238d43836d0d16789d7bb28[m
+Author: Borobalaz <75067710+Borobalaz@users.noreply.github.com>
+Date:   Wed Sep 27 16:32:24 2023 +0200
+
+    Initial commit
